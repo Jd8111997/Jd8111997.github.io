@@ -32,6 +32,9 @@ additional_links:
 - title: Kaggle
   icon: fab fa-kaggle
   url: https://www.kaggle.com/jd81197
+- title: Resume
+  icon: far fa-file-pdf
+  url: https://github.com/Jd8111997/Jd8111997/blob/main/assets/Resume.pdf
 
 
 # Google Analytics and Tag Manager
