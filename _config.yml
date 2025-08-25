@@ -15,7 +15,7 @@ phone: +1(630)943-9664
 darkmode: never
 
 # Social links
-X_username: JdChauhan703
+twitter_username: JdChauhan703
 github_username:  Jd8111997
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -47,16 +47,24 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-Hi, I’m Jaydeep!
-I’m a Machine Learning Engineer passionate about building robust, interpretable, and generalizable AI systems that can solve real-world problems and make a meaningful impact. My interests span across deep learning interpretability, computer vision, natural language processing, and generative AI — with a long-term goal of developing models that can reason about the world, learn from limited data, and generalize beyond i.i.d. settings.
-I recently graduated with a Master’s in Computer Science from Indiana University Bloomington (May 2023), and since then I’ve worked on a range of impactful projects:
-At IU’s School of Public Health, I designed large-scale pipelines for processing millions of PubMed articles, fine-tuned LLMs, and built RAG systems to recommend evidence-based nudges. I also co-developed a reminiscence therapy AI agent for dementia care, now backed by an NIH grant and heading to clinical trials.
-At Causify, I built scalable data pipelines, integrated exchange data, and collaborated on custom LLM research for streamlining workflows.
-Earlier, at ParallelDots, I worked on object detection models and computer vision pipelines for Fortune 500 FMCG clients, publishing research at CVPR 2021.
-I also enjoy competing on Kaggle, where I hold Expert rank and have earned silver medals in computer vision and healthcare challenges.
-Beyond engineering, I see myself as a polymath who loves connecting AI with diverse domains — from healthcare to climate-tech, from generative media to human-computer interaction.
-If you’re also excited about any of these areas or want to collaborate, feel free to reach out via email or LinkedIn.
-Thanks for stopping by!
+  Hi, I'm Jaydeep! 
+  I’m a Machine Learning Engineer passionate about building robust, interpretable, and generalizable AI systems that can solve real-world problems and make a meaningful impact. My interests span across deep learning interpretability, computer vision, natural language processing, and generative AI — with a long-term goal of developing models that can reason about the world, learn from limited data, and generalize beyond i.i.d. settings.
+
+  I recently graduated with a Master’s in Computer Science from Indiana University Bloomington (May 2023), and since then I’ve worked on a range of impactful projects:
+
+  At IU’s School of Public Health, I designed large-scale pipelines for processing millions of PubMed articles, fine-tuned LLMs, and built RAG systems to recommend evidence-based nudges. I also co-developed a reminiscence therapy AI agent for dementia care, now backed by an NIH grant and heading to clinical trials.
+
+  At Causify, I built scalable data pipelines, integrated exchange data, and collaborated on custom LLM research for streamlining workflows.
+
+  Earlier, at ParallelDots, I worked on object detection models and computer vision pipelines for Fortune 500 FMCG clients, publishing research at CVPR 2021.
+
+  I also enjoy competing on Kaggle, where I hold Expert rank and have earned silver medals in computer vision and healthcare challenges.
+
+  Beyond engineering, I see myself as a polymath who loves connecting AI with diverse domains — from healthcare to climate-tech, from generative media to human-computer interaction.
+
+  If you’re also excited about any of these areas or want to collaborate, feel free to reach out via email or LinkedIn.
+
+  Thanks for stopping by!
 
 
 content:
