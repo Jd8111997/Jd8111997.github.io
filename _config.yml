@@ -47,12 +47,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Jaydeep! I'm obsessed with lot of things, especially understanding the complex ML algorithms in the most intuitive manner, interpretability of Deep Learning systems, solving some real world problems using AI that can make the world a better place to live. My long term goal is to create ML models which are robust, could able to learn from very few samples, generalize beyond iid settings and can do a high level reasoning about the world. I consider myself polymath and I love connecting dots between AI and different fields.                     
-  
-  I'm currently pursuing Masters in Computer science from Indiana University Bloomington. Prior to joining IUB, I was working as a Assocaite Data Scientist for a Indian start up called : 'ParallelDots'.                                     
-
-  If you are also excited about any of the topics that I mentioned above and want to share your thought, feel free to reach out to me. You can mail me or reach out to me via LinkedIn.                               
-  Thanks for being here.
+Hi, I’m Jaydeep!
+I’m a Machine Learning Engineer passionate about building robust, interpretable, and generalizable AI systems that can solve real-world problems and make a meaningful impact. My interests span across deep learning interpretability, computer vision, natural language processing, and generative AI — with a long-term goal of developing models that can reason about the world, learn from limited data, and generalize beyond i.i.d. settings.
+I recently graduated with a Master’s in Computer Science from Indiana University Bloomington (May 2023), and since then I’ve worked on a range of impactful projects:
+At IU’s School of Public Health, I designed large-scale pipelines for processing millions of PubMed articles, fine-tuned LLMs, and built RAG systems to recommend evidence-based nudges. I also co-developed a reminiscence therapy AI agent for dementia care, now backed by an NIH grant and heading to clinical trials.
+At Causify, I built scalable data pipelines, integrated exchange data, and collaborated on custom LLM research for streamlining workflows.
+Earlier, at ParallelDots, I worked on object detection models and computer vision pipelines for Fortune 500 FMCG clients, publishing research at CVPR 2021.
+I also enjoy competing on Kaggle, where I hold Expert rank and have earned silver medals in computer vision and healthcare challenges.
+Beyond engineering, I see myself as a polymath who loves connecting AI with diverse domains — from healthcare to climate-tech, from generative media to human-computer interaction.
+If you’re also excited about any of these areas or want to collaborate, feel free to reach out via email or LinkedIn.
+Thanks for stopping by!
 
 
 content:
